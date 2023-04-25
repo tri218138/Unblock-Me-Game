@@ -1,4 +1,4 @@
-# Unblock-Me-Game
+# <span style="color:orange;">Unblock Me</span>
 
 How to install libsfml:  
 ```console
@@ -10,8 +10,9 @@ How to run game:
 ```console
 make play
 ```
-
-![Unblock Me](demo.png)
+<p align="center">
+<img src="demo.png" alt="Unblock Me">
+</p>
 
 How to play game:  
 * Use your mouse to select a block  
